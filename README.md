@@ -16,3 +16,13 @@ https://www.lincolninst.edu/research-data/data-toolkits/fiscally-standardized-ci
 
 Resources:
 https://gist.github.com/rogerallen/1583593
+
+CONCLUSION 1: BIPOC more likely to be labeled 'allegedly armed' than white folx.
+1) Drop armed (or whatever makes the most sense)
+2) Calculate rations of all. armed vs. total killed for white folx and BIPOC
+3) Do a z-test with null hypothesis saying ratio of labeling BIPOC as 'allegedly armed'  = ratio of labeling white folx as 'allegedly armed'
+
+CONCLUSION 2: unarmed BIPOC more likely to be killed than unarmed white folx.
+
+CONCLUSION 3: the higher a city's police spending, the higher the number of police killings of BIPOC.
+
