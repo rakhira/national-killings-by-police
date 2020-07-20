@@ -12,3 +12,4 @@ STEPS TO TAKE:
 If I have time, I'd like to merge this data set with a data set showing the police budget by department and plot numbers of killings of unarmed BIPOC as a function of police budgets, hoping to prove that larger budgets lead to more murders.
 
 https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx
+https://www.lincolninst.edu/research-data/data-toolkits/fiscally-standardized-cities/search-database
