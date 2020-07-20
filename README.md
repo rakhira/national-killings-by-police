@@ -13,3 +13,6 @@ If I have time, I'd like to merge this data set with a data set showing the poli
 
 https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx
 https://www.lincolninst.edu/research-data/data-toolkits/fiscally-standardized-cities/search-database
+
+Resources:
+https://gist.github.com/rogerallen/1583593
