@@ -19,7 +19,6 @@ I spent most of time doing EDA of my second dataframe, which was a merger of the
 
 ## Reflection
 ---
-
 Even though I was unable to reject my null hypothesis that the ratios of unarmed killed who are BIPOC and unarmed killed who are white are the same, I still enjoyed the research and skill building that this project involved. I was able to deepen my Pandas knowledge as well as my ability to plot using Matplotlib. 
 
 In the future, I would perhap pick a dataset that is more standardized, and more localized, as my domain knowledge is deeper when it comes to systems-based studies on the local and state levels. Not knowing whether the Mapping Police Violence dataset was complete or not (and not having an official national database of police killings) made it hard to fully understand what I saw in EDA and my hypothesis testing.
