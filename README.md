@@ -1,28 +1,25 @@
-# national-killings-by-police
+# National Killings by Police
 
-I want to prove that more unarmed BIPOC/non-white people are killed by police than unarmed white folx by a significant margin.
+This project is aimed at investigating:
+1) The role that racism plays in the way BIPOC who are killed by police are ‘coded’ in terms of armed status.
+2) To investigate the relationship between city police spending and city police killings, especially of BIPOC.
 
-I also would like to show that BIPOC are more likely to be labeled "allegedly armed" than white folx.
 
-STEPS TO TAKE:
-1) Import data
-2) Clean and sort data
-3) Hypothesis testing
+EDA
 
+I spent most of time doing EDA of my second dataframe, which was a merger of the Mapping Police Violence dataset on '2019-2019 Killings by PD' and the Lincoln Institute's 2013-2019 data on city budgets. In total, there were 78 cities represented in the dataset, based on which cities had police killings that had been reported on from 2013-2019. 
+
+![](img/)
+
+Reflection
+
+
+Even though I was unable to reject my null hypothesis that the ratios of unarmed killed who are BIPOC and unarmed killed who are white are the same, I still enjoyed the research and skill building that this project involved. I was able to deepen my Pandas knowledge 
 If I have time, I'd like to merge this data set with a data set showing the police budget by department and plot numbers of killings of unarmed BIPOC as a function of police budgets, hoping to prove that larger budgets lead to more murders.
 
 https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx
 https://www.lincolninst.edu/research-data/data-toolkits/fiscally-standardized-cities/search-database
 
-Resources:
-https://gist.github.com/rogerallen/1583593
-
-CONCLUSION 1: BIPOC more likely to be labeled 'allegedly armed' than white folx.
-1) Drop armed (or whatever makes the most sense)
-2) Calculate rations of all. armed vs. total killed for white folx and BIPOC
-3) Do a z-test with null hypothesis saying ratio of labeling BIPOC as 'allegedly armed'  = ratio of labeling white folx as 'allegedly armed'
-
-CONCLUSION 2: unarmed BIPOC more likely to be killed than unarmed white folx.
-
-CONCLUSION 3: the higher a city's police spending, the higher the number of police killings of BIPOC.
-
+References
+1. https://mappingpoliceviolence.org/s/MPVDatasetDownload.xlsx
+2. https://www.lincolninst.edu/research-data/data-toolkits/fiscally-standardized-cities/search-database
